@@ -1,0 +1,1 @@
+All those graphs are generated using the graphall() function defined in the "STAC_Project.ipynb" file.

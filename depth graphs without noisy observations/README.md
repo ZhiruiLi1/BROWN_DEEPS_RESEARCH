@@ -1,0 +1,3 @@
+All those graphs are generated using the graph_depth function defined in the "STAC_Project.ipynb" file.
+
+All those graphs represent the evolution of depth for each cast number using an edited dataset where all the noisy observations are deleted (the dataset is preprocessed by using the function getdata1()). We can see that for each graph, the depth value is constantly increasing, which indicates that we have the correct scan numbers in the dataset.

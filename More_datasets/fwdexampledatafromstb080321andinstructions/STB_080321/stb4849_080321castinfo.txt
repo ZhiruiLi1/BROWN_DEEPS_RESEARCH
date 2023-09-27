@@ -1,0 +1,32 @@
+* cast 001 03 Aug 2021 05:22:38 samples 269730 to 270088, avg = 1, stop = mag switch
+* cast 002 03 Aug 2021 05:30:56 samples 270089 to 270586, avg = 1, stop = mag switch
+* cast 003 03 Aug 2021 05:43:19 samples 270587 to 271174, avg = 1, stop = mag switch
+* cast 004 03 Aug 2021 05:50:02 samples 271175 to 271777, avg = 1, stop = mag switch
+* cast 005 03 Aug 2021 05:57:03 samples 271778 to 272343, avg = 1, stop = mag switch
+
+* cast 006 03 Aug 2021 06:02:46 samples 272344 to 273258, avg = 1, stop = mag switch
+* cast 007 03 Aug 2021 06:09:12 samples 273259 to 273918, avg = 1, stop = mag switch
+* cast 008 03 Aug 2021 06:14:57 samples 273919 to 274246, avg = 1, stop = mag switch
+* cast 009 03 Aug 2021 06:17:22 samples 274247 to 274983, avg = 1, stop = mag switch
+* cast 010 03 Aug 2021 06:21:54 samples 274984 to 275325, avg = 1, stop = mag switch
+
+* cast 011 03 Aug 2021 06:24:56 samples 275326 to 275636, avg = 1, stop = mag switch
+* cast 012 03 Aug 2021 06:28:06 samples 275637 to 275973, avg = 1, stop = mag switch
+* cast 013 03 Aug 2021 06:32:07 samples 275974 to 276492, avg = 1, stop = mag switch
+* cast 014 03 Aug 2021 06:37:27 samples 276493 to 276874, avg = 1, stop = mag switch
+* cast 015 03 Aug 2021 06:41:21 samples 276875 to 277646, avg = 1, stop = mag switch
+
+* cast 016 03 Aug 2021 06:47:39 samples 277647 to 278338, avg = 1, stop = mag switch
+* cast 017 03 Aug 2021 06:54:55 samples 278339 to 278884, avg = 1, stop = mag switch
+* cast 018 03 Aug 2021 06:59:18 samples 278885 to 279288, avg = 1, stop = mag switch
+* cast 019 03 Aug 2021 07:02:45 samples 279289 to 279973, avg = 1, stop = mag switch
+* cast 020 03 Aug 2021 07:07:05 samples 279974 to 280545, avg = 1, stop = mag switch
+
+* cast 021 03 Aug 2021 07:11:05 samples 280546 to 280962, avg = 1, stop = mag switch
+* cast 022 03 Aug 2021 07:16:04 samples 280963 to 281358, avg = 1, stop = mag switch
+* cast 023 03 Aug 2021 07:21:14 samples 281359 to 282090, avg = 1, stop = mag switch
+* cast 024 03 Aug 2021 07:27:18 samples 282091 to 282758, avg = 1, stop = mag switch
+* cast 025 03 Aug 2021 07:31:59 samples 282759 to 283417, avg = 1, stop = mag switch
+
+* cast 026 03 Aug 2021 07:36:31 samples 283418 to 283820, avg = 1, stop = mag switch
+* cast 027 03 Aug 2021 07:44:55 samples 283821 to 284394, avg = 1, stop = mag switch
