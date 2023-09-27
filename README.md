@@ -4,7 +4,7 @@ stb4849_080321.txt is the raw dataset.
 
 stb4849_080321edited.xlsx is the example dataset after all the preprocessing is done. 
 
-preprocessed_dataset.csv is the output dataset after calling the function getdata1() defined in "STAC Project.ipynb" file. This preprocessed version of the raw dataset is really similar to the example edited dataset with slight variation in the number of observations for each cast number. 
+preprocessed_dataset.csv is the output dataset after calling the function getdata1() defined in "STAC Project.ipynb" file. This preprocessed version of the raw dataset is similar to the example edited dataset with slight variation in the number of observations for each cast number. 
 
 
 In the "STAC Project.ipynb" file, there are five predefined functions:
