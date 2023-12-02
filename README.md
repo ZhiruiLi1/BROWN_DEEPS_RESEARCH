@@ -26,3 +26,5 @@ Example Outputs:
 ![Temperature vs  Depth Plot for Each Cast](https://github.com/ZhiruiLi1/Oceanographic_Data_Analysis/assets/90368869/47a4e514-443a-42ad-a87e-a0fbe12ab620)
 
 ![O2 % Saturation vs  Depth Plot for Each Cast](https://github.com/ZhiruiLi1/Oceanographic_Data_Analysis/assets/90368869/ce062eab-77f7-48cf-8665-1096c0ccd4a5)
+
+![Turbidity (SCUFA) vs  Depth Plot for Each Cast](https://github.com/ZhiruiLi1/Oceanographic_Data_Analysis/assets/90368869/8d2fccde-e9ff-43bd-81c9-8e9698d8ad8a)
