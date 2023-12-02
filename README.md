@@ -18,3 +18,11 @@ In the "STAC Project.ipynb" file, there are five predefined functions:
 
 5. summary_statistics(): rounds column 'Depth' in the supplied dataset to the nearest .5 and for each unique station ID, calculates the mean for each column based on different rounded depth values
 
+
+Example Outputs:
+
+![Salinity vs  Depth Plot for Each Cast](https://github.com/ZhiruiLi1/Oceanographic_Data_Analysis/assets/90368869/dce7b982-4880-4ca8-90b1-92c3e1fa7163)
+
+![Temperature vs  Depth Plot for Each Cast](https://github.com/ZhiruiLi1/Oceanographic_Data_Analysis/assets/90368869/47a4e514-443a-42ad-a87e-a0fbe12ab620)
+
+![O2 % Saturation vs  Depth Plot for Each Cast](https://github.com/ZhiruiLi1/Oceanographic_Data_Analysis/assets/90368869/ce062eab-77f7-48cf-8665-1096c0ccd4a5)
